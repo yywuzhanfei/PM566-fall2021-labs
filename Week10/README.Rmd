@@ -183,7 +183,7 @@ In my case:
 
 ```bash
 Rscript --vanilla -e 'rmarkdown::render("/Users/yywuzhanfei/Documents/USC/pm566/PM566-fall2021-labs/Week10/README.Rmd")'
-```
+``` 
 
 
 
