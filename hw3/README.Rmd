@@ -29,7 +29,7 @@ stringr::str_extract(counts, "[0-9,]+")
 ```
 
 I am able to find `r counts ` papers.
-
+ 
 
 - Using the list of pubmed ids you retrieved, download each papers’ details using the query parameter rettype = abstract. If you get more than 250 ids, just keep the first 250.
 
