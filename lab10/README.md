@@ -463,5 +463,5 @@ Run the following chunk to disconnect from the connection.
 
 ``` r
 # clean up
-dbDisconnect(con)
+dbDisconnect(con) 
 ```
