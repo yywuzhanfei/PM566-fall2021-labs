@@ -44,7 +44,7 @@ We will work with the COVID data presented in lecture. Recall the dataset consis
 
 - Read in the COVID data with data.table:fread() from the NYT GitHub repository: "https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-states.csv"
 - Read in the state population data with data.table:fread() from the repository: "https://raw.githubusercontent.com/COVID19Tracking/associated-data/master/us_census_data/us_census_2018_population_estimates_states.csv"
-- Merge datasets
+- Merge datasets 
 
 ```{r, echo=TRUE, message=FALSE}
 ## data extracted from New York Times state-level data from NYT Github repository
