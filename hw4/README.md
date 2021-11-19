@@ -291,5 +291,5 @@ Displaying records 1 - 10
 The most popular category is Sports.
 
 ``` r
-dbDisconnect(con)
+dbDisconnect(con) 
 ```
